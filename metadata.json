@@ -1,0 +1,7 @@
+{
+  "name": "PharmaGarde - Pharmacie Hospitalière",
+  "description": "Système complet de gestion de pharmacie hospitalière avec suivi des stocks, lots, péremptions, traçabilité et synchronisation Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
